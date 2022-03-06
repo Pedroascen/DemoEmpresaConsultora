@@ -37,7 +37,10 @@ namespace EmpresaEstadistica
 
                 if (UsuariotextBox.Text == cliente.usuario[i] && ClavetextBox.Text == cliente.clave[i])
                 {
-                    MessageBox.Show("Bienvenido usuari@ " +cliente.usuario[i]);
+                    //MessageBox.Show("Bienvenido usuari@ " + cliente.usuario[i]);
+                    Datos.usuarioInsert = UsuariotextBox.Text;
+                    Datos.CidRubroInsert = cliente.CidRubro[i];
+                    //MessageBox.Show("El id de Rubro que se va es: "+Datos.CidRubroInsert.ToString());
                     this.Hide();
                     inicio.Show();
                 }

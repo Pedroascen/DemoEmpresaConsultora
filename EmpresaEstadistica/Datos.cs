@@ -6,7 +6,8 @@ using System.Text;
 namespace EmpresaEstadistica
 {
     public class Datos{
-        
+        static public string usuarioInsert;
+        static public int CidRubroInsert;
     }
 
     public class Cliente {
@@ -23,7 +24,7 @@ namespace EmpresaEstadistica
 
     public class Descripcion {
         public int[] DidRubro = {1,1,1,2,2,2,3,3,3};
-        public int[] idDescrpcion = { 1,2,3,4,5,6,7,8,9 };
+        public int[] idDescripcion = { 1,2,3,4,5,6,7,8,9 };
         public string[] clasificacion = { "Clasificación A", "Clasificación B", "Clasificación C", 
                                           "Novelas Románticas" , "Cómics", "Libros sociedad", 
                                           "Programación Web", "Programación Mobile" , "Programación de Aprendizaje Automático (Machine Learning)" };

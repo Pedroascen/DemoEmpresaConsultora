@@ -65,6 +65,7 @@ namespace EmpresaEstadistica
             // 
             this.ClavetextBox.Location = new System.Drawing.Point(163, 182);
             this.ClavetextBox.Name = "ClavetextBox";
+            this.ClavetextBox.PasswordChar = '*';
             this.ClavetextBox.Size = new System.Drawing.Size(146, 23);
             this.ClavetextBox.TabIndex = 3;
             // 
