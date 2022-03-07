@@ -31,60 +31,60 @@ namespace EmpresaEstadistica
                             if (descripcion.idDescripcion[d]==1) {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip1.Text = descripcion.clasificacion[d];
-                                DetalleTextBox1.Text = (descripcion.detalle[d].ToString());
+                                richTextBox1.Text = (descripcion.detalle[d].ToString());
                             }
 
                             if (descripcion.idDescripcion[d] == 2)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip2.Text = descripcion.clasificacion[d];
-                                DetalleTextBox2.Text = (descripcion.detalle[d].ToString());
+                                richTextBox2.Text = (descripcion.detalle[d].ToString());
                             }
 
                             if (descripcion.idDescripcion[d] == 3)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip3.Text = descripcion.clasificacion[d];
-                                DetalleTextBox3.Text = (descripcion.detalle[d].ToString());
+                                richTextBox3.Text = (descripcion.detalle[d].ToString());
                             }
 
                             if (descripcion.idDescripcion[d] == 4)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip1.Text = descripcion.clasificacion[d];
-                                DetalleTextBox1.Text = (descripcion.detalle[d].ToString());
+                                richTextBox1.Text = (descripcion.detalle[d].ToString());
                             }
 
                             if (descripcion.idDescripcion[d] == 5)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip2.Text = descripcion.clasificacion[d];
-                                DetalleTextBox2.Text = (descripcion.detalle[d].ToString());
+                                richTextBox2.Text = (descripcion.detalle[d].ToString());
                             }
 
                             if (descripcion.idDescripcion[d] == 6)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip3.Text = descripcion.clasificacion[d];
-                                DetalleTextBox3.Text = (descripcion.detalle[d].ToString());
+                                richTextBox3.Text = (descripcion.detalle[d].ToString());
                             }
                             if (descripcion.idDescripcion[d] == 7)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip1.Text = descripcion.clasificacion[d];
-                                DetalleTextBox1.Text = (descripcion.detalle[d].ToString());
+                                richTextBox1.Text = (descripcion.detalle[d].ToString());
                             }
                             if (descripcion.idDescripcion[d] == 8)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip2.Text = descripcion.clasificacion[d];
-                                DetalleTextBox2.Text = (descripcion.detalle[d].ToString());
+                                richTextBox2.Text = (descripcion.detalle[d].ToString());
                             }
                             if (descripcion.idDescripcion[d] == 9)
                             {
                                 //MessageBox.Show(rubro.nombre[r].ToString() + " clasificacion " + descripcion.clasificacion[d]);
                                 TituloDescrip3.Text = descripcion.clasificacion[d];
-                                DetalleTextBox3.Text = (descripcion.detalle[d].ToString());
+                                richTextBox3.Text = (descripcion.detalle[d].ToString());
                             }
                         }
                     }
@@ -92,7 +92,7 @@ namespace EmpresaEstadistica
             }
         }
 
-        private void SalirButton_Click(object sender, EventArgs e)
+        private void SalirButton_Click_1(object sender, EventArgs e)
         {
             LoginWF login = new LoginWF();
             this.Hide();
