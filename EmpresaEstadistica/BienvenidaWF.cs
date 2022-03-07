@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace EmpresaEstadistica
 {
-    public partial class Bienvenida : Form
+    public partial class BienvenidaWF : Form
     {
-        public Bienvenida()
+        public BienvenidaWF()
         {
             InitializeComponent();
         }

@@ -13,7 +13,7 @@ C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\n
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.dll
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.pdb
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.genruntimeconfig.cache
-C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.BienvenidaWF.resources
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.InicioWF.resources
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.LoginWF.resources
 C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.Properties.Resources.resources
+C:\Users\Ascencio\source\repos\EmpresaEstadistica\EmpresaEstadistica\obj\Debug\netcoreapp3.1\EmpresaEstadistica.BienvenidaWF.resources

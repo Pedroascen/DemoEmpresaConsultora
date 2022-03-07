@@ -1,7 +1,7 @@
 ﻿
 namespace EmpresaEstadistica
 {
-    partial class Bienvenida
+    partial class BienvenidaWF
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@ namespace EmpresaEstadistica
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Bienvenida));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BienvenidaWF));
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timer2 = new System.Windows.Forms.Timer(this.components);
             this.panel1 = new System.Windows.Forms.Panel();
@@ -154,7 +154,7 @@ namespace EmpresaEstadistica
             this.panel4.Size = new System.Drawing.Size(399, 255);
             this.panel4.TabIndex = 6;
             // 
-            // Bienvenida
+            // BienvenidaWF
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -166,11 +166,11 @@ namespace EmpresaEstadistica
             this.Controls.Add(this.panel1);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Bienvenida";
+            this.Name = "BienvenidaWF";
             this.Opacity = 0D;
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "BienvenidaWF";
+            this.Text = "Bienvenida";
             this.Load += new System.EventHandler(this.BienvenidaWF_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
