@@ -128,11 +128,11 @@ namespace EmpresaEstadistica
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(171, 24);
+            this.label2.Location = new System.Drawing.Point(112, 23);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(174, 46);
+            this.label2.Size = new System.Drawing.Size(235, 46);
             this.label2.TabIndex = 8;
-            this.label2.Text = "Análisis";
+            this.label2.Text = "Consultora";
             // 
             // label5
             // 
