@@ -9,7 +9,7 @@ namespace EmpresaEstadistica {
     static class Program
     {
         static void Main(){
-            //Application.Run(new BienvenidaWF());
+            Application.Run(new Bienvenida());
             Application.Run(new LoginWF());
         }
     }
